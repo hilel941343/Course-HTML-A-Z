@@ -1,2 +1,3 @@
-# Course-HTML-A-Z
-Course HTML A-Z
+#קורס בסיסי בHTML
+
+קורס בסיסי בHTML מלמד על הsyntax של השפה.
