@@ -1,3 +1,4 @@
-#קורס בסיסי בHTML
-
-קורס בסיסי בHTML מלמד על הsyntax של השפה.
+# Basic HTML Course
+A basic HTML course teaches the syntax of the language.
+# Link to the course
+https://www.taasuka.gov.il/he/Applicants/Pages/HTML.aspx
