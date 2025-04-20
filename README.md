@@ -11,6 +11,6 @@ Forms & Inputs: Learned how to build interactive forms with input fields, checkb
 
 Best Practices: Followed standards for writing clean and semantic HTML code.
 
-# 🔗 Course Link: Basic HTML Course - Taasuka.gov.il
+# 🔗 Course Link: Basic HTML Course - https://www.taasuka.gov.il/he/Applicants/Pages/HTML.aspx
 
 This project serves as a first step into the world of front-end development and lays the groundwork for learning CSS and JavaScript.
